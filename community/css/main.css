@@ -1,0 +1,24 @@
+.box {
+   background-image: url(/Mo.jpg);
+   margin-right: 170px;
+   background-size: auto;
+ }
+ p {
+   color: #FFFFFF;
+ }
+ h2 {
+   color: #007BFF;
+ }
+ .items {
+   margin-left: 60px;
+ }
+button {
+  border-radius: 5px;
+}
+.icons {
+  color: #FFFFFF;
+}
+
+i {
+  background-color: #5CA6D5;
+}

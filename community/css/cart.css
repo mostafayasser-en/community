@@ -9,12 +9,12 @@
     border: 2px solid #9b9a9a ;
     border-radius: 15px;
     padding: 10px 10px 0;
-    margin-bottom: 24px;
+    margin-bottom: 9px;
 }
 .cart-head-1{
     color: rgb(0, 247, 255);
-    font-size: 140px;
-    margin-top: -123px;
+    font-size: 100px;
+    margin-top: -90px;
 }
 .cart-head{
     width: 845px;
@@ -23,6 +23,7 @@
     padding: 10px;
     text-align: center;
     margin: 50px;
+    background-color: rgb(235 235 235 / 1);
 }
 .cart-icon ,.cart-icon-1 ,.cart-icon-2 {
     color: blue;

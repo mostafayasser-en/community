@@ -1,24 +1,40 @@
-/* .box {
-   background-image: url(/Mo.jpg);
-   margin-right: 170px;
+.nav-mo{
+  text-decoration: none;
+}
+.header-nav{
+  margin-top: -25;
+}
+.box {
+   background-image: url(../img/IMG-20250203-WA0005.jpg);
    background-size: auto;
+   padding: 10%;
+   background-size: cover;
+   margin-top: -15px;
+   /* position: ; */
  }
- p {
+ .header-text{
    color: #FFFFFF;
+   margin: 0 0 12px;
+   margin-top: 50px;
  }
- h2 {
-   color: #007BFF;
+ .header-head{
+   color: rgb(37, 215, 221);
  }
  .items {
-   margin-left: 60px;
+  margin-left: 160px;
+  margin-top: 212px;
  }
-button {
+.header-button{
+  border: 1px solid rgb(37, 215, 221);
   border-radius: 5px;
+  background-color: rgb(37, 215, 221);
 }
-.icons {
-  color: #FFFFFF;
+.header-icon{
+  margin-top: 10px;
+  font-size: 29px;;
 }
-
-i {
-  background-color: #5CA6D5;
-} */
+.icons{
+    color: white;
+    margin-left: 10px;
+    background-color: rgb(37, 215, 221);
+}

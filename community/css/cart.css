@@ -1,5 +1,5 @@
 .all{
-    padding-top: 70px;
+    padding: 70px;
     background-color: rgb(235 235 235 / 1);
 }
 .head{
@@ -32,5 +32,12 @@
     font-size: 30px;
 }
 .cart-icon-1{
+    color: rgb(243, 12, 120);
+}
+.footer{
+    background-color:rgb(37, 215, 221) ;
+    text-align: center;
+}
+.footer-text{
     color: rgb(243, 12, 120);
 }

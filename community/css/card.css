@@ -15,16 +15,6 @@
 .project-card .card-body {
     padding: 15px;
 }
-.projects-title {
-    font-size: 24px;
-    font-weight: bold;
-    border: solid 1px #fff;
-    border-radius: 5px;
-    text-align: center;
-    height: 40px;
-    width: 170px;
-    padding: 10px 10px 40px;
-}
 .c-gray {
     color: #9e9e9e !important;
     font-size: medium;

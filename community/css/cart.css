@@ -133,3 +133,10 @@
     display: flex;
     justify-content: end;
 }
+@media (min-width:768px) {
+    .footer {
+        padding: 10px;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+}

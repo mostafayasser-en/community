@@ -45,8 +45,10 @@
     color: rgb(243, 12, 120);
 }
 .footer{
-    background-color:rgb(37, 215, 221) ;
+    background-color:rgb(33, 195, 201) ;
     text-align: center;
+    color: white;
+    padding: 15px;
 }
 .footer-text{
     color: rgb(243, 12, 120);
@@ -114,5 +116,20 @@
         margin-left: 140px;
         width: 20px;
         gap: 20px;
+    }
+}
+@media ( min-width: 768px) {
+    .footer {
+        width: 750px;
+    }
+}
+@media ( min-width: 992px) {
+    .footer {
+        width: 970px;
+    }
+}
+@media ( max-width: 1200px) {
+    .footer {
+        width: 1170px;
     }
 }

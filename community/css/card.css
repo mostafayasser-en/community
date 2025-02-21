@@ -7,6 +7,8 @@
     color: #000;
     border-radius: 8px;
     overflow: hidden;
+    animation: fadeIn 6s 1;
+    transition: 0.5s;
 }
 .project-card img {
     width: 100%;
@@ -21,4 +23,28 @@
 }
 .a-none{
     text-decoration: none;
+}
+.project-card:hover {
+    box-shadow: 0 0 50px #ffffffc4;
+    transition: 0.5s;
+    transform: scale(1.05); ;
+}
+.a-none:hover {
+    text-decoration: none;
+    color: white !important;
+    background-color: #333;
+    border: 1px solid #000;
+    border-radius: 8px;
+    transition: 0.5s;
+    padding: 5px 10px 2px;
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        margin-bottom: -700px;
+    }
+    to {
+        opacity: 1;
+        margin: 0;
+    }
 }

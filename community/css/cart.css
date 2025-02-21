@@ -41,7 +41,7 @@
     box-shadow: 0 0 50px #ffffffc4;
     transition: 0.5s;
     transform: scale(1.05); ;
-    padding: 20px;
+    padding: 20px 10px 36px;
     border: 8px solid transparent;
 }
 .cart-icon ,.cart-icon-1 ,.cart-icon-2 {

@@ -53,9 +53,12 @@
 }
 .footer{
     background-color:rgb(33, 195, 201) ;
-    text-align: center;
+    text-align: start;
     color: white;
     padding: 15px;
+    font-size: 25px;
+    padding-left: 250px;
+    padding-right: 50px;
 }
 .footer-text{
     color: rgb(243, 12, 120);
@@ -125,18 +128,8 @@
         gap: 20px;
     }
 }
-@media ( min-width: 768px) {
-    .footer {
-        width: 750px;
-    }
-}
-@media ( min-width: 992px) {
-    .footer {
-        width: 970px;
-    }
-}
-@media ( max-width: 1200px) {
-    .footer {
-        width: 1170px;
-    }
+ .bi-arrow-up-square-fill {
+    font-size: 2rem;
+    display: flex;
+    justify-content: end;
 }

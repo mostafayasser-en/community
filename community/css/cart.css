@@ -1,5 +1,5 @@
 .all{
-    padding: 70px;
+    padding: 100px 70px 100px;
     background-color: rgb(235 235 235 / 1);
 }
 .head{
@@ -7,7 +7,7 @@
 }
 .cart-head-2{
 
-    margin: 20px auto 18px;
+    margin: 20px 20px 10px;
     position: relative;
     font-size: 24px;
     font-weight: bold;
@@ -20,7 +20,7 @@
     color: rgb(37, 215, 221);
     font-size: 80px;
     margin-top: -50px;
-    margin-left: 438px;
+    margin-left: 376px;
 }
 .cart-head-3{
     color: rgb(37, 215, 221);
@@ -32,10 +32,17 @@
     width: 845px;
     border: 8px solid #f5f5f5eb;
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px 10px 36px;
     text-align: center;
-    margin: 50px;
+    margin: 50px 8px;
     background-color: white;
+}
+.cart-head:hover {
+    box-shadow: 0 0 50px #ffffffc4;
+    transition: 0.5s;
+    transform: scale(1.05); ;
+    padding: 20px;
+    border: 8px solid transparent;
 }
 .cart-icon ,.cart-icon-1 ,.cart-icon-2 {
     color: rgb(37, 215, 221);

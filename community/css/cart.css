@@ -77,9 +77,8 @@
     margin-left: 4px;
 } 
     .head{
-    margin-left: 65px;
+    margin-left: 105px;
     width: 20px;
-    gap: 20px;
     } 
     .cart-1{
         display: flex;
@@ -97,9 +96,8 @@
         margin-left: 4px;
     } 
         .head{
-        margin-left: 120px;
+        margin-left: 150px;
         width: 20px;
-        gap: 20px;
         } 
         .cart-1{
             display: flex;
@@ -122,9 +120,8 @@
         flex-direction: column;
     }
     .head{
-        margin-left: 140px;
+        margin-left: 180px;
         width: 20px;
-        gap: 20px;
     }
 }
 .bi-arrow-up-square-fill {

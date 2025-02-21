@@ -7,7 +7,7 @@
 }
 .cart-head-2{
 
-    margin: 20px auto 18px;
+    margin: 20px 20px 10px;
     position: relative;
     font-size: 24px;
     font-weight: bold;
@@ -20,7 +20,7 @@
     color: rgb(37, 215, 221);
     font-size: 80px;
     margin-top: -50px;
-    margin-left: 438px;
+    margin-left: 376px;
 }
 .cart-head-3{
     color: rgb(37, 215, 221);
@@ -34,8 +34,12 @@
     border-radius: 10px;
     padding: 10px;
     text-align: center;
-    margin: 50px;
+    margin: 50px 20px;
     background-color: white;
+}
+.cart-head:hover{
+    padding: 20px;
+    border: 8px solid transparent;
 }
 .cart-icon ,.cart-icon-1 ,.cart-icon-2 {
     color: rgb(37, 215, 221);

@@ -24,6 +24,10 @@
 .a-none{
     text-decoration: none;
 }
+.box-dot{
+    width: 100%;
+    text-align: center;
+}
 .dot{
     color: rgb(37, 215, 221);
     font-size: 80px;

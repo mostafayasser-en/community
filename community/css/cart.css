@@ -11,9 +11,9 @@
 .head{
     justify-content: center;
 }
-.cart-head-2{
+/* .cart-head-2{ */
 
-    margin: 20px 20px 10px;
+    /* margin: 20px 20px 10px;
     position: relative;
     font-size: 24px;
     font-weight: bold;
@@ -21,7 +21,7 @@
     width: fit-content;
     padding: 5px 10px;
     border-radius: 5px;
-}
+} */
 /* .cart{
     display: flex;
     flex-wrap: wrap;
@@ -142,7 +142,7 @@
         width: fit-content; 
     }
     .cart-head{
-        width: 182px;
+        width: 233px;
         margin-right: 23px;
     }
     .cart{

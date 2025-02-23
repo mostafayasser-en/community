@@ -7,8 +7,8 @@
     color: #000;
     border-radius: 8px;
     overflow: hidden;
-    animation: fadeIn 6s 1;
-    transition: 0.5s;
+    /* animation: fadeIn 6s 1;
+    transition: 0.5s; */
 }
 .project-card img {
     width: 100%;
@@ -56,7 +56,7 @@
     transition: 0.5s;
     padding: 5px 10px 2px;
 }
-@keyframes fadeIn {
+/* @keyframes fadeIn {
     from {
         opacity: 0;
         margin-bottom: -700px;
@@ -65,4 +65,4 @@
         opacity: 1;
         margin: 0;
     }
-}
+} */

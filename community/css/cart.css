@@ -1,9 +1,12 @@
 .all{
-    padding: 100px 70px 100px;
+    /* padding: 100px  100px; */
     background-color: rgb(235 235 235 / 1);
+    /* width: 100%; */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
     width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+    height: auto;
+    
 }
 .head{
     justify-content: center;
@@ -95,8 +98,8 @@
     margin-left: -75px;
    }
    .cart-head{
-    width: 306px;
-    margin-left: 4px;
+    width: 246px;
+    margin-left: 80px;
 } 
     .head{
     margin-left: 105px;
@@ -116,7 +119,7 @@
        }
        .cart-head{
         width: 306px;
-        margin-left: 4px;
+        margin-left: 45px;
     } 
         .head{
         margin-left: 150px;

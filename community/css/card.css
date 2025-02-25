@@ -45,7 +45,7 @@
 .project-card:hover {
     box-shadow: 0 0 50px #ffffffc4;
     transition: 0.5s;
-    transform: scale(1.05); ;
+    transform: scale(1.05);
 }
 .a-none:hover {
     text-decoration: none;
